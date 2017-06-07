@@ -1,0 +1,9 @@
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\bin\Debug\Arduino Connectie.exe.config
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\bin\Debug\Arduino Connectie.exe
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\bin\Debug\Arduino Connectie.pdb
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.csprojResolveAssemblyReference.cache
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino_Connectie.Form1.resources
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino_Connectie.Properties.Resources.resources
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.csproj.GenerateResource.Cache
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.exe
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.pdb
