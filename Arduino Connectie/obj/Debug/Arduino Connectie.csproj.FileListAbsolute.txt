@@ -7,3 +7,4 @@ C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Ardu
 C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.csproj.GenerateResource.Cache
 C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.exe
 C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino Connectie.pdb
+C:\Fontys\oiPT12\VisualStudio\Arduino Connectie\Arduino Connectie\obj\Debug\Arduino_Connectie.ComPortSelector.resources

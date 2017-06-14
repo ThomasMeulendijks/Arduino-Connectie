@@ -20,8 +20,12 @@ namespace Arduino_Connectie
         {
             InitializeComponent();
             string[] comportStrings = SerialPort.GetPortNames();
-            cbbLock.Items.Add(comportStrings);
-            cbbTv.Items.Add(comportStrings);
+            foreach (string commport in comportStrings)
+            {
+                cbbLock.Items.Add(commport);
+                cbbTv.Items.Add(commport);
+            }
+
         }
 
         private void btnSubmit_Click(object sender, EventArgs e)
